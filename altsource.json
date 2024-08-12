@@ -1,0 +1,62 @@
+{
+    "name": "Dan's Source",
+    "subtitle": "all @ddvniele's apps in one place",
+    "description": "welcome to my source! here you'll find all my apps organized in one place",
+    "iconURL": "assets/repoIcon.png",
+    "headerURL": "assets/repoIcon.png",
+    "website": "https://ddvniele.github.io/altsource",
+    "tintColor": "#838f9a",
+    "featuredApps": [
+        "com.ddvniele.clipboard"
+    ],
+    "apps": [
+        {
+            "name": "Clipboard",
+            "bundleIdentifier": "com.ddvniele.clipboard",
+            "developerName": "Dan",
+            "subtitle": "A new place to organize copy & paste",
+            "localizedDescription": "A new place to organize copy & paste",
+            "iconURL": "assets/Clipboard/ClipboardIcon.png",
+            "tintColor": "#b87fed",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0 beta",
+                    "date": "2024-08-13",
+                    "size": 1100000,
+                    "downloadURL": "apps/Clipboard/Clipboard.ipa",
+                    "localizedDescription": "Initial beta release",
+                    "minOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    
+                ],
+                "privacy": {
+                    
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "Available now the first beta of Clipboard!",
+            "identifier": "new_feature",
+            "caption": "It's still a beta; download it from the browse section",
+            "date": "2024-08-13",
+            "tintColor": "#b87fed",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "appID": "com.ddvniele.clipboard"
+        }
+    ]
+}
