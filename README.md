@@ -6,10 +6,9 @@ this is my open source AltStore/SideStore source repository which contains all t
 
 ## 🔖 Apps
 these are the apps you can find on my source:
-- nothing here for now. publishing tweaks as soon as possible ;)
+- nothing here for now. publishing new apps as soon as possible ;)
 
 ## ⏳ Next Goals
-- 
-
-### 💟 Thanks to
--
+- organizing the entire source repository (just created it for now lmao)
+- creating a cool web page for the source
+- collecting all the ipas of every iOS apps I've made so far
