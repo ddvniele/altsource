@@ -21,21 +21,16 @@
             "localizedDescription": "A new place to organize copy & paste",
             "iconURL": "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/ClipboardIcon.png",
             "tintColor": "#b87fed",
-            "screenshots": [
+            "version": "1.0 beta",
+            "versionDdate": "2024-08-13",
+            "size": 1100000,
+            "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
+            "minOSVersion": "17.0",
+            "screenshotURLs": [
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot1.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot2.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot3.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0 beta",
-                    "date": "2024-08-13",
-                    "size": 1100000,
-                    "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
-                    "localizedDescription": "Initial beta release",
-                    "minOSVersion": "17.0"
-                }
             ],
             "appPermissions": {
                 "entitlements": [
