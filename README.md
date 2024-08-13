@@ -6,7 +6,8 @@ this is my open source AltStore/SideStore source repository which contains all t
 
 ## 🔖 Apps
 these are the apps you can find on my source:
-- nothing here for now. publishing new apps as soon as possible ;)
+- Clipboard (beta)
+- more apps coming soon
 
 ## ⏳ Next Goals
 - organizing the entire source repository (just created it for now lmao)

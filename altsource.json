@@ -13,7 +13,7 @@
     ],
     "apps": [
         {
-            "name": "Clipboard Beta",
+            "name": "Clipboard (beta)",
             "bundleIdentifier": "com.ddvniele.Clipboard",
             "developerName": "Dan",
             "subtitle": "A new place to organize copy & paste",
