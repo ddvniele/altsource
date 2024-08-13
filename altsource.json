@@ -5,7 +5,7 @@
     "identifier": "com.ddvniele.altsource",
     "sourceURL": "https://ddvniele.github.io/altsource/altsource.json",
     "description": "welcome to my source! here you'll find all my apps organized in one place",
-    "iconURL": "https://github.com/ddvniele/altsource/blob/main/assets/repoIcon.png",
+    "iconURL": "https://ddvniele.github.io/altsource/assets/repoIcon.png",
     "website": "https://ddvniele.github.io/altsource",
     "tintColor": "#838f9a",
     "featuredApps": [
@@ -18,19 +18,19 @@
             "developerName": "Dan",
             "subtitle": "A new place to organize copy & paste",
             "localizedDescription": "A new place to organize copy & paste",
-            "iconURL": "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/ClipboardIcon.png",
+            "iconURL": "https://ddvniele.github.io/altsource/assets/Clipboard/ClipboardIcon.png",
             "tintColor": "#b87fed",
             "version": "1.0 beta",
             "versionDate": "2024-08-12T16:00:00-06:00",
             "size": 1100000,
-            "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
+            "downloadURL": "https://ddvniele.github.io/altsource/apps/Clipboard/Clipboard.ipa",
             "category": "utilities",
             "minOSVersion": "17.0",
             "screenshots": [
-                "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot1.png",
-                "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot2.png",
-                "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot3.png",
-                "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot4.png"
+                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot1.png",
+                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot2.png",
+                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot3.png",
+                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot4.png"
             ],
             "versions": [
                 {
@@ -38,7 +38,7 @@
                     "buildVersion": "1",
                     "date": "2024-08-12T16:00:00-06:00",
                     "localizedDescription": "A new place to organize copy & paste",
-                    "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
+                    "downloadURL": "https://ddvniele.github.io/altsource/apps/Clipboard/Clipboard.ipa",
                     "size": 1100000,
                     "minOSVersion": "17.0"
                 }
