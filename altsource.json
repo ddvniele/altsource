@@ -1,6 +1,9 @@
 {
+    "$schema": "./assets/altstore.schema.json",
     "name": "Dan's Source",
     "subtitle": "all @ddvniele's apps in one place",
+    "identifier": "com.ddvniele.altsource",
+    "sourceURL": "https://ddvniele.github.io/altsource/altsource.json",
     "description": "welcome to my source! here you'll find all my apps organized in one place",
     "iconURL": "https://github.com/ddvniele/altsource/blob/main/assets/repoIcon.png",
     "headerURL": "https://github.com/ddvniele/altsource/blob/main/assets/repoIcon.png",
@@ -47,7 +50,7 @@
     "news": [
         {
             "title": "Available now the first beta of Clipboard!",
-            "identifier": "new_feature",
+            "identifier": "new-clipboard-beta-release",
             "caption": "It's still a beta; download it from the browse section",
             "date": "2024-08-13",
             "tintColor": "#b87fed",
