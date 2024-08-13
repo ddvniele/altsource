@@ -6,16 +6,15 @@
     "sourceURL": "https://ddvniele.github.io/altsource/altsource.json",
     "description": "welcome to my source! here you'll find all my apps organized in one place",
     "iconURL": "https://github.com/ddvniele/altsource/blob/main/assets/repoIcon.png",
-    "headerURL": "https://github.com/ddvniele/altsource/blob/main/assets/repoIcon.png",
     "website": "https://ddvniele.github.io/altsource",
     "tintColor": "#838f9a",
     "featuredApps": [
-        "com.ddvniele.clipboard"
+        "com.ddvniele.Clipboard"
     ],
     "apps": [
         {
-            "name": "Clipboard",
-            "bundleIdentifier": "com.ddvniele.clipboard",
+            "name": "Clipboard Beta",
+            "bundleIdentifier": "com.ddvniele.Clipboard",
             "developerName": "Dan",
             "subtitle": "A new place to organize copy & paste",
             "localizedDescription": "A new place to organize copy & paste",
@@ -25,12 +24,24 @@
             "versionDate": "2024-08-12T16:00:00-06:00",
             "size": 1100000,
             "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
+            "category": "utilities",
             "minOSVersion": "17.0",
-            "screenshotURLs": [
+            "screenshots": [
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot1.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot2.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot3.png",
                 "https://github.com/ddvniele/altsource/blob/main/assets/Clipboard/Screenshot4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1. beta",
+                    "buildVersion": "1",
+                    "date": "2024-08-12T16:00:00-06:00",
+                    "localizedDescription": "A new place to organize copy & paste",
+                    "downloadURL": "https://github.com/ddvniele/altsource/blob/main/apps/Clipboard/Clipboard.ipa",
+                    "size": 1100000,
+                    "minOSVersion": "17.0"
+                }
             ],
             "appPermissions": {
                 "entitlements": [
