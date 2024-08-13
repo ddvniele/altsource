@@ -57,11 +57,11 @@
         {
             "title": "Available now the first beta of Clipboard!",
             "identifier": "new-clipboard-beta-release",
-            "caption": "It's still a beta; download it from the browse section",
+            "caption": "Give it a try!",
             "date": "2024-08-13",
             "tintColor": "#b87fed",
             "notify": true,
-            "appID": "com.ddvniele.clipboard"
+            "appID": "com.ddvniele.Clipboard"
         }
     ]
 }
