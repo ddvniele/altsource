@@ -27,10 +27,18 @@
             "category": "utilities",
             "minOSVersion": "17.0",
             "screenshots": [
-                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot1.png",
-                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot2.png",
-                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot3.png",
-                "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot4.png"
+                {
+                    "imageURL": "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot1.png"
+                },
+                {
+                    "imageURL": "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot2.png"
+                },
+                {
+                    "imageURL": "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot3.png"
+                },
+                {
+                    "imageURL": "https://ddvniele.github.io/altsource/assets/Clipboard/Screenshot4.png"
+                }
             ],
             "versions": [
                 {
