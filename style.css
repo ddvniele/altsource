@@ -1,0 +1,75 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap');
+
+/* general */
+body {
+    text-align: center;
+    font-family: 'Roboto Mono';
+    background-color: #E5E5E5;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-40%);
+}
+
+/* header */
+.header h1 {
+    font-family: 'Outfit';
+    font-weight: 600;
+}
+.github-link {
+    color: slategrey;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+.github-link:hover {
+    color: cadetblue;
+    text-decoration-line: underline;
+}
+
+/* description */
+.addto-body {
+    display: flex;
+    flex-direction: column;
+}
+.addto-body a {
+    color: slategray;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+.addto-body span {
+    margin-bottom: 7.5px;
+}
+.addto-body a:hover {
+    text-decoration-line: underline;
+}
+.btn-altstore:hover {
+    color: rgb(0, 134, 120);
+}
+.btn-sidestore:hover {
+    color: rgb(236, 34, 239);
+}
+
+/* footer */
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.footer a {
+    color: silver;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+.footer span {
+    margin-top: 7.5px;
+}
+.footer-github:hover {
+    color: black;
+    text-decoration-line: underline;
+}
+.footer-link:hover {
+    color: mediumslateblue;
+    text-decoration-line: underline;
+}
