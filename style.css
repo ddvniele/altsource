@@ -33,6 +33,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+.addto-body p {
+    color: rgb(95, 150, 109);
+}
 .addto-body a {
     color: slategray;
     text-decoration-line: none;
