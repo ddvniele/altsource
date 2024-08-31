@@ -15,7 +15,7 @@
             "name": "Clipboard",
             "bundleIdentifier": "com.ddvniele.Clipboard",
             "developerName": "Dan",
-            "subtitle": "A new place to organize copy & paste",
+            "subtitle": "A new place to organise copy & paste for your iPhone",
             "localizedDescription": "Clipboard is a complete copy & paste tool that feature easy items management and full integration with the Shortcuts app",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Clipboard/ClipboardIcon.png",
             "tintColor": "#b87fed",
@@ -33,12 +33,20 @@
                 "https://github.com/user-attachments/assets/ee9f02a8-c7d6-4203-8da0-a3a10056e38c",
                 "https://github.com/user-attachments/assets/4877dc50-148c-4c62-b771-ae199a588de6"
             ],
+            "screenshotURLs": [
+                "https://github.com/user-attachments/assets/1287844e-293d-4187-904a-75b52aca40f5",
+                "https://github.com/user-attachments/assets/62106c12-5ba5-4e64-bed3-c3a4fe50ce11",
+                "https://github.com/user-attachments/assets/cfac2401-99a6-4d0d-a045-91ad21f8d7af",
+                "https://github.com/user-attachments/assets/ed629e03-253b-4193-8a93-3ce7eadb710d",
+                "https://github.com/user-attachments/assets/7da3bf34-7c44-4a7b-9276-e09a439b26da",
+                "https://github.com/user-attachments/assets/576a367a-2af4-4f5a-93bc-18f15518f07a"
+            ],
             "versions": [
                 {
                     "version": "1.0",
                     "buildVersion": "1",
                     "date": "2024-08-30T12:00:00-06:00",
-                    "localizedDescription": "First beta release",
+                    "localizedDescription": "Initial release",
                     "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
                     "size": 1100000,
                     "minOSVersion": "17.0"
