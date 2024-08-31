@@ -12,7 +12,7 @@
     ],
     "apps": [
         {
-            "name": "Clipboard (beta)",
+            "name": "Clipboard",
             "bundleIdentifier": "com.ddvniele.Clipboard",
             "developerName": "Dan",
             "subtitle": "A new place to organize copy & paste",
@@ -56,10 +56,10 @@
     ],
     "news": [
         {
-            "title": "Now available the first beta of Clipboard!",
+            "title": "Now available the first version of Clipboard!",
             "identifier": "new-clipboard-beta-release",
             "caption": "Download version 1.0 beta with support for iOS 17+",
-            "date": "2024-08-13",
+            "date": "2024-08-30",
             "tintColor": "#b87fed",
             "notify": true,
             "appID": "com.ddvniele.Clipboard"
