@@ -19,7 +19,7 @@
             "localizedDescription": "Clipboard is a complete copy & paste tool that feature easy items management and full integration with the Shortcuts app",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Clipboard/ClipboardIcon.png",
             "tintColor": "#b87fed",
-            "version": "1.0 beta",
+            "version": "1.0",
             "versionDate": "2024-08-30T12:00:00-06:00",
             "size": 1100000,
             "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
@@ -44,7 +44,6 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "buildVersion": "1",
                     "date": "2024-08-30T12:00:00-06:00",
                     "localizedDescription": "Initial release",
                     "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
