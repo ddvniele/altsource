@@ -58,7 +58,7 @@
         {
             "title": "Now available the first version of Clipboard!",
             "identifier": "new-clipboard-beta-release",
-            "caption": "Download version 1.0 beta with support for iOS 17+",
+            "caption": "Download version 1.0 with iPhone support for iOS 17+",
             "date": "2024-08-30",
             "tintColor": "#b87fed",
             "notify": true,
