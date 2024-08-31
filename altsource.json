@@ -1,4 +1,5 @@
 {
+    "$schema": "./assets/altstore.schema.json",
     "name": "Dan's Source",
     "subtitle": "all @ddvniele's apps in one place",
     "identifier": "com.ddvniele.altsource",
