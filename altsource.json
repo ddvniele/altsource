@@ -4,7 +4,7 @@
     "identifier": "com.ddvniele.altsource",
     "sourceURL": "https://tinyurl.com/dansaltsource",
     "description": "welcome to my source! here you'll find all my apps organised in one place",
-    "iconURL": "https://github.com/user-attachments/assets/d9eb538e-630c-478f-a443-64715d66630f",
+    "iconURL": "https://github.com/user-attachments/assets/b365059f-ce37-40d0-8488-47a2bf227391",
     "website": "https://ddvniele.github.io/altsource",
     "tintColor": "#838f9a",
     "featuredApps": [
@@ -19,7 +19,7 @@
             "localizedDescription": "Clipboard is a complete copy & paste tool that feature easy items management and full integration with the Shortcuts app",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Clipboard/ClipboardIcon.png",
             "tintColor": "#b87fed",
-            "version": "1.0",
+            "version": "v1.0",
             "versionDate": "2024-08-30T12:00:00-06:00",
             "size": 1100000,
             "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
@@ -43,7 +43,7 @@
             ],
             "versions": [
                 {
-                    "version": "1.0",
+                    "version": "v1.0",
                     "date": "2024-08-30T12:00:00-06:00",
                     "localizedDescription": "Initial release",
                     "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",

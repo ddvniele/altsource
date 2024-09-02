@@ -1,4 +1,4 @@
-<div align="center"><img width="125" alt="altsource icon" src="https://github.com/user-attachments/assets/d9eb538e-630c-478f-a443-64715d66630f"></div>
+<div align="center"><img width="125" alt="altsource icon" src="https://github.com/user-attachments/assets/96ab42d7-d6fe-45a2-8d58-341680ce873c"></div>
 
 <div align="center"><h1>Dan's Source</h1></div>
 this is my open source AltStore/SideStore source repository which contains all the iOS apps I've made so far.
