@@ -12,6 +12,44 @@
     ],
     "apps": [
         {
+            "name": "Sssymbols!",
+            "bundleIdentifier": "com.ddvniele.Sssymbols-iOS",
+            "developerName": "Dan",
+            "subtitle": "quickly find SF Symbols for your projects",
+            "localizedDescription": "This project has the goal to make SF Symbols researches easier and more convenients than using the official SF Symbols macOS app. You can keep the app with you on your iPhone and search for symbols anytime you need them.",
+            "iconURL": "https://ddvniele.github.io/altsource/assets/Sssymbols/SssymbolsIcon.png",
+            "tintColor": "#9d82ff",
+            "version": "v3.0",
+            "versionDate": "2025-08-29T12:00:00-06:00",
+            "size": 1100000,
+            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0/Sssymbols-iOS.3.0.ipa",
+            "category": "developer tools",
+            "minOSVersion": "18.0",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/a40a3827-6708-40c4-8537-622ba9ad7b96",
+                "https://github.com/user-attachments/assets/579e7fa7-bc93-4217-b55f-75d62c1a3f7b",
+                "https://github.com/user-attachments/assets/4f09e980-2d1d-4c9f-841a-0cc4c5a903ab"
+            ],
+            "versions": [
+                {
+                    "version": "v3.0",
+                    "date": "2025-08-29T12:00:00-06:00",
+                    "localizedDescription": "finally introducing full iOS 26 support! this update includes:\n- completely rewritten liquid glass interface (iOS 26+)\n- added support to SF Symbols 7\n- new animations and performaces improvements\n- dropped iOS 17 support to make room for iOS 26. if you're on iOS 17, check out the [last supported version](https://github.com/ddvniele/Sssymbols-iOS/releases/tag/Release-2.0.1)",
+                    "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
+                    "size": 2916424,
+                    "minOSVersion": "18.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    
+                ],
+                "privacy": {
+                    
+                }
+            }
+        },
+        {
             "name": "Clipboard",
             "bundleIdentifier": "com.ddvniele.Clipboard",
             "developerName": "Dan",
