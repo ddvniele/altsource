@@ -20,10 +20,10 @@
             "localizedDescription": "This project has the goal to make SF Symbols researches easier and more convenients than using the official SF Symbols macOS app. You can keep the app with you on your iPhone and search for symbols anytime you need them.",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Sssymbols/SssymbolsIcon.png",
             "tintColor": "#9d82ff",
-            "version": "v3.0",
-            "versionDate": "2025-08-29T12:00:00-06:00",
+            "version": "v3.0.1",
+            "versionDate": "2025-09-05T12:00:00-06:00",
             "size": 2916424,
-            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0/Sssymbols-iOS.3.0.ipa",
+            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0.1/Sssymbols-iOS.3.0.1.ipa",
             "category": "developer tools",
             "minOSVersion": "18.0",
             "screenshots": [
@@ -32,6 +32,13 @@
                 "https://github.com/user-attachments/assets/4f09e980-2d1d-4c9f-841a-0cc4c5a903ab"
             ],
             "versions": [
+                {
+                    "version": "v3.0.1",
+                    "date": "2025-09-05T12:00:00-06:00",
+                    "localizedDescription": "•fixed liquid glass elements (iOS 26)\n• fixed search bar behavior",
+                    "size": 2910865,
+                    "minOSVersion": "18.0"
+                },
                 {
                     "version": "v3.0",
                     "date": "2025-08-29T12:00:00-06:00",
@@ -111,13 +118,12 @@
             "appID": "com.ddvniele.Clipboard"
         },
         {
-            "title": "Sssymbols! for iOS is finally on AltStore/SideStore!",
+            "title": "Sssymbols! for iOS got an update!",
             "identifier": "new-sssymbols-release",
-            "caption": "Download v3.0 with iPhone support for iOS 18+",
-            "date": "2025-08-29",
+            "caption": "Download v3.0.1 with iPhone support for iOS 18+",
+            "date": "2025-09-05",
             "tintColor": "#9d82ff",
-            "imageURL": "https://github.com/user-attachments/assets/1c5ddda7-1932-460e-a61c-1115f3c9c963",
-            "notify": true,
+            "notify": false,
             "appID": "com.ddvniele.Sssymbols-iOS"
         }
     ]
