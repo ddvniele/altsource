@@ -22,7 +22,7 @@
             "tintColor": "#9d82ff",
             "version": "v3.0.1",
             "versionDate": "2025-09-05T12:00:00-06:00",
-            "size": 2916424,
+            "size": 2910865,
             "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0.1/Sssymbols-iOS.3.0.1.ipa",
             "category": "developer tools",
             "minOSVersion": "18.0",
@@ -37,14 +37,6 @@
                     "date": "2025-09-05T12:00:00-06:00",
                     "localizedDescription": "•fixed liquid glass elements (iOS 26)\n• fixed search bar behavior",
                     "size": 2910865,
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "v3.0",
-                    "date": "2025-08-29T12:00:00-06:00",
-                    "localizedDescription": "finally introducing full iOS 26 support! this update includes:\n• completely rewritten liquid glass interface (iOS 26+)\n• added support to SF Symbols 7\n• new animations and performaces improvements\n• dropped iOS 17 support to make room for iOS 26. if you're on iOS 17, check out the last supported version on GitHub",
-                    "downloadURL": "https://github.com/ddvniele/Clipboard/releases/download/Clipboard-v1.0/Clipboard.ipa",
-                    "size": 2916424,
                     "minOSVersion": "18.0"
                 }
             ],
@@ -123,7 +115,7 @@
             "caption": "Download v3.0.1 with iPhone support for iOS 18+",
             "date": "2025-09-05",
             "tintColor": "#9d82ff",
-            "notify": false,
+            "notify": true,
             "appID": "com.ddvniele.Sssymbols-iOS"
         }
     ]
