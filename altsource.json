@@ -35,7 +35,7 @@
                 {
                     "version": "v3.0.1",
                     "date": "2025-09-05T12:00:00-06:00",
-                    "localizedDescription": "•fixed liquid glass elements (iOS 26)\n• fixed search bar behavior",
+                    "localizedDescription": "• fixed liquid glass elements (iOS 26)\n• fixed search bar behavior",
                     "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0.1/Sssymbols-iOS.3.0.1.ipa",
                     "size": 2910865,
                     "minOSVersion": "18.0"
