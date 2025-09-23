@@ -9,6 +9,6 @@ this is my open source AltStore/SideStore source repository which contains all t
 
 ## 🔖 Apps
 these are the apps you can find on my source:
-- Sssymbols! (v3.0.1 - Sep 05, 2025)
+- Sssymbols! (v3.1 - Sep 23, 2025)
 - Clipboard (v1.0 - Aug 30, 2024)
   - more apps coming soon

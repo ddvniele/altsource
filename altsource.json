@@ -20,10 +20,10 @@
             "localizedDescription": "This project has the goal to make SF Symbols researches easier and more convenients than using the official SF Symbols macOS app. You can keep the app with you on your iPhone and search for symbols anytime you need them.",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Sssymbols/SssymbolsIcon.png",
             "tintColor": "#9d82ff",
-            "version": "v3.0.1",
-            "versionDate": "2025-09-05T12:00:00-06:00",
-            "size": 2910865,
-            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.0.1/Sssymbols-iOS.3.0.1.ipa",
+            "version": "v3.1",
+            "versionDate": "2025-09-23T12:00:00-06:00",
+            "size": 2915353,
+            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.1/Sssymbols-iOS.3.1.ipa",
             "category": "developer tools",
             "minOSVersion": "18.0",
             "screenshots": [
@@ -32,6 +32,14 @@
                 "https://github.com/user-attachments/assets/4f09e980-2d1d-4c9f-841a-0cc4c5a903ab"
             ],
             "versions": [
+                {
+                    "version": "v3.1",
+                    "date": "2025-09-23T12:00:00-06:00",
+                    "localizedDescription": "• SF Symbols 7 is now the default selection on iOS 26\n• fixed some UI elements",
+                    "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.1/Sssymbols-iOS.3.1.ipa",
+                    "size": 2915353,
+                    "minOSVersion": "18.0"
+                },
                 {
                     "version": "v3.0.1",
                     "date": "2025-09-05T12:00:00-06:00",
@@ -110,6 +118,15 @@
     ],
     "news": [
         {
+            "title": "Sssymbols! for iOS got an update!",
+            "identifier": "new-sssymbols-release",
+            "caption": "Download v3.1 with iPhone support for iOS 18+",
+            "date": "2025-09-23",
+            "tintColor": "#9d82ff",
+            "notify": true,
+            "appID": "com.ddvniele.Sssymbols-iOS"
+        },
+        {
             "title": "Now available the first version of Clipboard!",
             "identifier": "new-clipboard-beta-release",
             "caption": "Download version 1.0 with iPhone support for iOS 17+",
@@ -117,15 +134,6 @@
             "tintColor": "#b87fed",
             "notify": true,
             "appID": "com.ddvniele.Clipboard"
-        },
-        {
-            "title": "Sssymbols! for iOS got an update!",
-            "identifier": "new-sssymbols-release",
-            "caption": "Download v3.0.1 with iPhone support for iOS 18+",
-            "date": "2025-09-05",
-            "tintColor": "#9d82ff",
-            "notify": true,
-            "appID": "com.ddvniele.Sssymbols-iOS"
         }
     ]
 }
