@@ -4,7 +4,7 @@
     "identifier": "com.ddvniele.altsource",
     "sourceURL": "https://tinyurl.com/dansaltsource",
     "description": "welcome to my source! here you'll find all my apps organised in one place",
-    "iconURL": "https://github.com/user-attachments/assets/b365059f-ce37-40d0-8488-47a2bf227391",
+    "iconURL": "https://github.com/user-attachments/assets/c07fd9dd-3d64-4d26-88d8-586343537322",
     "website": "https://ddvniele.github.io/altsource",
     "tintColor": "#838f9a",
     "featuredApps": [
@@ -13,17 +13,17 @@
     ],
     "apps": [
         {
-            "name": "Sssymbols!",
+            "name": "Sssymbols",
             "bundleIdentifier": "com.ddvniele.Sssymbols-iOS",
             "developerName": "Dan",
             "subtitle": "quickly find SF Symbols for your projects",
             "localizedDescription": "This project has the goal to make SF Symbols researches easier and more convenients than using the official SF Symbols macOS app. You can keep the app with you on your iPhone and search for symbols anytime you need them.",
             "iconURL": "https://ddvniele.github.io/altsource/assets/Sssymbols/SssymbolsIcon.png",
             "tintColor": "#9d82ff",
-            "version": "v3.1",
-            "versionDate": "2025-09-23T12:00:00-06:00",
-            "size": 2915353,
-            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Release-3.1/Sssymbols-iOS.3.1.ipa",
+            "version": "8",
+            "versionDate": "2026-09-06T12:00:00-06:00",
+            "size": 3716168,
+            "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Sssymbols-8/Sssymbols-for-iOS.ipa",
             "category": "developer tools",
             "minOSVersion": "18.0",
             "screenshots": [
@@ -32,6 +32,14 @@
                 "https://github.com/user-attachments/assets/4f09e980-2d1d-4c9f-841a-0cc4c5a903ab"
             ],
             "versions": [
+                {
+                    "version": "8",
+                    "date": "2026-09-06T12:00:00-06:00",
+                    "localizedDescription": "• finally added full support to SF Symbols 8!\n•changed Sssymbols version numbers to reflect the SF Symbols current release\n•removed the ! from Sssymbols name. easier to write and manage the name",
+                    "downloadURL": "https://github.com/ddvniele/Sssymbols-iOS/releases/download/Sssymbols-8/Sssymbols-for-iOS.ipa",
+                    "size": 3716168,
+                    "minOSVersion": "18.0"
+                },
                 {
                     "version": "v3.1",
                     "date": "2025-09-23T12:00:00-06:00",
@@ -58,12 +66,8 @@
                 }
             ],
             "appPermissions": {
-                "entitlements": [
-                    
-                ],
-                "privacy": {
-                    
-                }
+                "entitlements": [],
+                "privacy": {}
             }
         },
         {
@@ -107,12 +111,8 @@
                 }
             ],
             "appPermissions": {
-                "entitlements": [
-                    
-                ],
-                "privacy": {
-                    
-                }
+                "entitlements": [],
+                "privacy": {}
             }
         }
     ],

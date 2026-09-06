@@ -1,4 +1,4 @@
-<div align="center"><a href="https://ddvniele.github.io/altsource"><img width="125" alt="altsource icon" src="https://github.com/user-attachments/assets/96ab42d7-d6fe-45a2-8d58-341680ce873c"></a></div>
+<div align="center"><a href="https://ddvniele.github.io/altsource"><img width="125" alt="altsource icon" src="assets/altsource.png"></a></div>
 
 <div align="center"><h1>Dan's Source</h1></div>
 this is my open source AltStore/SideStore source repository which contains all the iOS apps I've made so far.
@@ -9,6 +9,6 @@ this is my open source AltStore/SideStore source repository which contains all t
 
 ## 🔖 Apps
 these are the apps you can find on my source:
-- Sssymbols! (v3.1 - Sep 23, 2025)
+- Sssymbols 8 (Sep 6, 2026)
 - Clipboard (v1.0 - Aug 30, 2024)
   - more apps coming soon
